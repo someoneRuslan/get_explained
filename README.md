@@ -37,3 +37,26 @@ git remote add origin
 git push -u origin
 ```
 
+
+* to check status of files
+
+
+```bash
+git status
+```
+
+* to show logs
+
+
+```bash
+git logs
+```
+
+
+* to show logs (short version)
+
+
+```bash
+git logs --oneline
+```
+
